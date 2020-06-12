@@ -12,7 +12,9 @@ This is the reading group of the MEG lab at the Martinos Center.
 Presented by *Anish*
 
 **Chapter 3:** *Linear methods for regression*  
-Presented by *Isil Uluc*
+*11th March 2020*  
+Presented by *Isil Uluc*  
+[[presentation]](https://www.dropbox.com/s/vm5fh353lku66uk/Ch3_Linear_Regression.pdf?dl=0)
 
 **Chapter 4:** *Linear methods for classification*  
 *8th April 2020* and *22nd April 2020*  
@@ -28,6 +30,7 @@ Presented by *Ruben Dorfel*
 **Chapter 6:** *Kernel smoothing methods*  
 *10th June 2020*  
 Presented by *Kaisu Lankinen*  
+[[presentation]](https://www.dropbox.com/s/0pmz0sd0121nxne/Ch6_kernel_smoothing_methods.pptx?dl=0)
 
 **Chapter 7:** *Model assessment and selection*  
 Padma Sundaram
