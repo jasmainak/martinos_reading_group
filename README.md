@@ -34,7 +34,7 @@ Presented by *Kaisu Lankinen*
 
 **Chapter 7:** *Model assessment and selection*  
 *24th June 2020*  
-Presented by *Padma Sundaram*
+Presented by *Padma Sundaram*  
 [[presentation]](https://www.dropbox.com/s/zp16t1hfm612yh2/Ch7_model_assessment.pptx?dl=0)
 
 **Chapter 11:** *Neural networks*  
@@ -43,7 +43,7 @@ Presented by *Adonay Nunes*
 
 **Chapter 8:** *Model inference and averaging*  
 *5th August 2020*  
-Presented by *Mainak Jas*
+Presented by *Mainak Jas*  
 [[presentation]](https://www.dropbox.com/s/8pjzioin4e6hi0b/Ch8_model_inference.pptx?dl=0)
 
 **Chapter 9:** *Additive models, trees, and related methods*  
