@@ -39,7 +39,8 @@ Presented by *Padma Sundaram*
 
 **Chapter 11:** *Neural networks*  
 *8th July 2020*  
-Presented by *Adonay Nunes*
+Presented by *Adonay Nunes*  
+[[presentation]](https://www.dropbox.com/s/81d0a9kkz5u31xj/Ch11_neural_networks.pptx?dl=0)
 
 **Chapter 8:** *Model inference and averaging*  
 *5th August 2020*  
