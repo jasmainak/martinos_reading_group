@@ -33,13 +33,21 @@ Presented by *Kaisu Lankinen*
 [[presentation]](https://www.dropbox.com/s/0pmz0sd0121nxne/Ch6_kernel_smoothing_methods.pptx?dl=0)
 
 **Chapter 7:** *Model assessment and selection*  
-Padma Sundaram
+*24th June 2020*  
+Presented by *Padma Sundaram*
+[[presentation]](https://www.dropbox.com/s/zp16t1hfm612yh2/Ch7_model_assessment.pptx?dl=0)
+
+**Chapter 11:** *Neural networks*  
+*8th July 2020*  
+Presented by *Adonay Nunes*
+
+**Chapter 8:** *Model inference and averaging*  
+*5th August 2020*  
+Presented by *Mainak Jas*
+[[presentation]](https://www.dropbox.com/s/8pjzioin4e6hi0b/Ch8_model_inference.pptx?dl=0)
 
 **Chapter 9:** *Additive models, trees, and related methods*  
 Natalia Kozhemiako
-
-**Chapter 11:** *Neural networks*  
-Adonay Nunes
 
 **Chapter 13:** *Prototype methods and Nearest-Neighbors*  
 Tori Turpin
